@@ -12,3 +12,4 @@ Fylo Landing Page (Dark Theme) - HTML & CSS without external libraries
 - Kehinde Adewunmi (SH-IT-0025642)
 
 # Live Site
+Hosted on Netlify - https://sh-group40-fylo.netlify.app/
