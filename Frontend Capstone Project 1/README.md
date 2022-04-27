@@ -10,6 +10,7 @@ Fylo Landing Page (Dark Theme) - HTML & CSS without external libraries
 - Abiye Iniabere (SH-IT-0039348)
 - Obinna Achazie (SH-IT-0020528)
 - Kehinde Adewunmi (SH-IT-0025642)
+- Salami Isaac Sunday (SH-IT-0103624)
 
 # Live Site
 Hosted on Netlify - https://sh-group40-fylo.netlify.app/
